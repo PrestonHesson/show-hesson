@@ -12,3 +12,10 @@
      <li>Mcdonalds, less then 5 miles away</li>
      <li>The Union</li>
 </ol>
+
+<h3>Side Dishes to Enjoy</h3>
+    <ul>
+        <li>Bacon Hash Brown Bake</li>
+        <li>BBQ Chicken Bits</li>
+        <li>Bacon Pancakes</li>
+    </ul>
