@@ -30,3 +30,19 @@ Here are two inspirational statements from well-known figures that I find meanin
 
 > "Success is not final, failure is not fatal: it is the courage to continue that counts."  
 > *—Winston Churchill*
+
+---
+
+## Code Snippet
+
+Below is a useful TypeScript snippet that demonstrates a **debounce function**. This function delays invoking a provided function until at least the specified number of milliseconds have elapsed. It is useful for optimizing performance in scenarios like search input handling or event listeners.
+
+```typescript
+const debounce = (fn: Function, ms = 300) => {
+	let timeoutId: ReturnType<typeof setTimeout>;
+	return function (this: any, ...args: any[]) {
+		clearTimeout(timeoutId);
+		timeoutId = setTimeout(() => fn.apply(this, args), ms);
+	};
+};
+https://code.pieces.app/collections/typescript
