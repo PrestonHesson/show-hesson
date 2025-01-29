@@ -18,3 +18,15 @@ If Cary Elwes had not played Westley in *The Princess Bride*, there are several 
 | Errol Flynn     | Classic swashbuckler with legendary sword skills   | N/A (Deceased) |
 | Emma Stone      | Would bring a fresh, witty, and fun new take       | 35  |
 | Heath Ledger    | Had charisma and charm perfect for the character   | N/A (Deceased) |
+
+---
+
+## Inspirational Quotes
+
+Here are two inspirational statements from well-known figures that I find meaningful:
+
+> "Do what you can, with what you have, where you are."  
+> *—Theodore Roosevelt*
+
+> "Success is not final, failure is not fatal: it is the courage to continue that counts."  
+> *—Winston Churchill*
